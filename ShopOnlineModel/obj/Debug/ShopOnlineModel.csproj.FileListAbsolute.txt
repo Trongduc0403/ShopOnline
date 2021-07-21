@@ -1,0 +1,12 @@
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\ShopOnlineModel.dll.config
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\ShopOnlineModel.dll
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\ShopOnlineModel.pdb
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\EntityFramework.dll
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\EntityFramework.xml
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\obj\Debug\ShopOnlineModel.csprojAssemblyReference.cache
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\obj\Debug\ShopOnlineModel.csproj.CoreCompileInputs.cache
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\obj\Debug\ShopOnlineModel.csproj.CopyComplete
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\obj\Debug\ShopOnlineModel.dll
+E:\Lap-trinh-web\Do_An5\ShopOnlineModel\obj\Debug\ShopOnlineModel.pdb

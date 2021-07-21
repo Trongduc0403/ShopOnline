@@ -1,0 +1,31 @@
+﻿
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <!-- / header top left -->
+        <div class="aa-header-top-right">
+            <ul class="aa-head-top-nav-right">
+                <li>@Html.ActionLink("My Account", "Login", "Account")</li>
+                <li class="hidden-xs">@Html.ActionLink("Wishlist", "Wishlist", "Home")</li>
+                <li class="hidden-xs">@Html.ActionLink("My Cart", "Index", "Cart")</li>
+                <li class="hidden-xs">@Html.ActionLink("Checkout", "Checkout", "Home")</li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+            </ul>
+        </div>
+    }
+}
+else
+{
+    <!-- / header top left -->
+    <div class="aa-header-top-right">
+        <ul class="aa-head-top-nav-right">
+            <li>@Html.ActionLink("Register", "Register", "Account")</li>
+            <li>@Html.ActionLink("Login", "Login", "Account")</li>
+        </ul>
+    </div>
+}
+
